@@ -151,6 +151,6 @@ if stop_loss:
     st.sidebar.write(f"Stop Loss: {round(stop_loss,2)}")
     st.sidebar.write(f"Target: {round(target_price,2)}")
 
-
+print("Hello World")
 
 print("Stock Market Prediction System")    
